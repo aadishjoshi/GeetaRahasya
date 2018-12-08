@@ -1,6 +1,5 @@
-﻿# GeetaRahasya / Open source Instructions
-Shrimadh Bhagvad Geeta Knowledge Base consisting facts, objects and relations
-
+﻿# GitaRahasya / Open source Instructions
+Shrimadh Bhagvad Gita Knowledge Base consisting facts, objects and relations
 
 1) Clone this repository and create your branch using
 git checkout -b YOUR_BRANCH_NAME

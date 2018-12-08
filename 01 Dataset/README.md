@@ -1,3 +1,2 @@
-﻿# GeetaRahasya / Dataset
-
-Shrimadh Bhagvad Geeta Knowledge Base consisting facts, objects and relations
+﻿# GitaRahasya / Dataset
+Shrimadh Bhagvad Gita Knowledge Base consisting facts, objects and relations

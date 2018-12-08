@@ -1,3 +1,2 @@
-﻿# GeetaRahasya / Examples
-
-Shrimadh Bhagvad Geeta Knowledge Base consisting facts, objects and relations
+﻿# GitaRahasya / Examples
+Shrimadh Bhagvad Gita Knowledge Base consisting facts, objects and relations

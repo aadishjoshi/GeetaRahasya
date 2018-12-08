@@ -1,3 +1,2 @@
-﻿# GeetaRahasya / Code
-
-Shrimadh Bhagvad Geeta Knowledge Base consisting facts, objects and relations
+﻿# GitaRahasya / Code
+Shrimadh Bhagvad Gita Knowledge Base consisting facts, objects and relations

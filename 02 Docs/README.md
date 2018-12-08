@@ -1,3 +1,2 @@
-﻿# GeetaRahasya / Docs
-
-Shrimadh Bhagvad Geeta Knowledge Base consisting facts, objects and relations
+﻿# GitaRahasya / Docs
+Shrimadh Bhagvad Gita Knowledge Base consisting facts, objects and relations
