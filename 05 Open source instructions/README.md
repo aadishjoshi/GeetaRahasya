@@ -1,4 +1,4 @@
-﻿# GitaRahasya / Open source Instructions
+# GitaRahasya / Open source Instructions
 Shrimadh Bhagvad Gita Knowledge Base consisting facts, objects and relations
 
 1) Clone this repository and create your branch using
@@ -19,4 +19,4 @@ git commit -m "message e.g. added readme";
 git push -u origin YOUR_BRANCH_NAME
 
 7) go to gitHub and in Pull request create a pull request
-for  aadishjoshi/GeetaRahasya : master to yourGITHUB/GeetaRahasya: YOUR_BRANCH_NAME
+for  aadishjoshi/GitaRahasya : master to yourGITHUB/GitaRahasya: YOUR_BRANCH_NAME
